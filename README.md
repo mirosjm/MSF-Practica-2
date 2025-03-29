@@ -17,8 +17,8 @@ Diseñar un controlador que permita formular un protocolo de tratamiento para qu
 4. Construir el diagrama de bloques.
 5. Disenar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores óptimos para cada una de las ganancias kP, kI y kD.
 6. Ilustrar el canbio de flujo y el aire tidal en respuesta a las siguientes formas de onda de presión sinusoidal en la apertura de la vía aerea [Pao(t)]:
-   a) 15 respiraciones por minuto con una amplitud (A) de 2.5 cmH2O, es decir, respiración normal
-   b) 30 respiraciones por minuto con una amplitud (A) de 1.5 cmH2O, es decir, respirAción elevada o taquipnea.
+      a) 15 respiraciones por minuto con una amplitud (A) de 2.5 cmH2O, es decir, respiración normal
+      b) 30 respiraciones por minuto con una amplitud (A) de 1.5 cmH2O, es decir, respirAción elevada o taquipnea.
 7. Determinar la respuesta a la función sinusoidal [u(t) = Asinwt] en el intervalo tƎ[0,30] (Segundos) en Python, Simulink y Multisim en lazo abierto.
 8. Elaborar el dagrama biológico del sistema con BioRender.com.
 9. Discutir los resultados obtenidos en la experientación in silico y elaborar el reporte de la practica.
